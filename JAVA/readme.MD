@@ -1,1 +1,1 @@
-Roadmap de aprendizaje en JAVA desde fundamentos a ejercicio mas complejos
+Roadmap de aprendizaje en JAVA desde los fundamentos
