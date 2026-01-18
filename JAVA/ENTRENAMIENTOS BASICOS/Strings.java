@@ -41,7 +41,7 @@ public class Strings {
         System.out.println(name.toUpperCase());
         System.out.println(name.toLowerCase());
 
-        // Si lo modifico tengo que modificar la variable
+        // Si lo quiero modificar tengo que modificar la variable
 
         name = name.toUpperCase();
         System.out.println(name);
